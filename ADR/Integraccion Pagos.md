@@ -14,4 +14,4 @@ El sistema principal es Odoo ERP, responsable de gestionar los procesos empresar
 La integración de un botón de pago facilita las transacciones en línea, lo que mejora la experiencia del cliente al poder realizar el proceso de compra. Al automatizar el proceso de pago y sincronizar la información entre Odoo y la plataforma del proveedor de botón de pago, se optimizan los procesos internos de la empresa. Implementar esta arquitectura implica costos en la integración, por lo cual se recomienda realizar un análisis exhaustivo para evaluar si es factible la integración de este módulo.
 
 
-[Inicio Readme](/Readme.md)
+[Inicio Readme](/Inicio.md)

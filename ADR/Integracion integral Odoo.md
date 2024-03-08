@@ -34,4 +34,4 @@ La optimización de recursos de la Empresa XYZ al permitir que otros sistemas se
 La empresa XYZ optimiza las tareas de publicación del contenido de sus productos en diferentes redes sociales, permitiendo también el uso del WhatsApp Business que permitirá realizar respuestas rápidas en cualquier momento.
 
 
-[Inicio Readme](/Readme.md)
+[Inicio Readme](/Inicio.md)

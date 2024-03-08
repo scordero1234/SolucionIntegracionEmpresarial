@@ -18,4 +18,4 @@ Se podrá realizar ventas directas a través de las redes sociales y el chatbot 
 La integración facilitará la recopilación y análisis de datos sobre el rendimiento de las campañas de marketing y el comportamiento del cliente en las redes sociales.
 Implementar esta arquitectura implica costos en la integración, lo cual se recomienda realizar un análisis exhaustivo.
 
-[Inicio Readme](/Readme.md)
+[Inicio Readme](/Inicio.md)

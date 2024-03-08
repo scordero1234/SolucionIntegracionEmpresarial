@@ -16,4 +16,4 @@ Mejora el rendimiento, ya que la empresa posee varias sucursales, lo que causaba
 Mejora la experiencia del cliente al obtener su factura de forma rápida, reduciendo errores.
 Implementar esta arquitectura implica costos en la integración, por lo cual se recomienda realizar un análisis exhaustivo para evaluar si es factible la integración de este módulo.
 
-[Inicio Readme](/Readme.md)
+[Inicio Readme](/Inicio.md)
